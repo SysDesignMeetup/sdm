@@ -56,6 +56,8 @@ Here are some core principles I would like to adhere to while doing so.
 
    I also want our components to be agnostic with respect to now-common standard building blocks. There should be no "Database" or "Cache" or "Message Queue" or "Leader Elections" components, and there should be no Postgres/MySQL/Mongo, Redis/Memcached, Kafka/RabbitMQ, or Consul/etcd ones. Instead, each component should serve a specific well-articulated logical function.
 
+   Of course, certain implementations of certain components would effectively be thin wrappers over standard building blocks such as Postgres or Kafka; by no means we plan to re-implement their functionality from scratch. What is important is that our components are logical building blocks, tailored to our needs, not to what a particular existing solution such as Postgres can provide. And the API contract for our component should highlight its function, such as "transactionally update X", or "broadcast state change Y", not its implementation detail such as "run this SQL query" or "update this Consul DNS record".
+
    This should be done such that it is possible to implement the same functionality using multiple underlying building blocks, and effectively compare them to one another, instead of fixating on a particular standard component as the "building block of choice". However tempting it may be, no design we provide should be set on using any particular technology as the backbone. In fact, if a particular technology seems like a perfect fit, then we are either not attacking a generic enough problem, or not thinking of it broadly enough.
 
 3. **Contract-Centric**.
