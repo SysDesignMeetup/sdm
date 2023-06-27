@@ -118,7 +118,7 @@ Here are some core principles I would like to adhere to while doing so.
 
    A container that stores text files (or maybe an official "fake S3" container) is good enough for storing logs. A quick `gnuplot`- or `graphviz`- or `d3`-enabled renderer of a certain rich JSON payload is preferable compared to Grafana. A reference command with `curl -s`, `tail -f`, `grep`, `jq`, and `awk`, copy-pasteable from the status page, is better than a monstrous component with a sole purpose of enabling the respective functionality.
 
-   Some (Swagger)[https://petstore.swagger.io/] or (Metabase)[https://www.metabase.com/demo] or (Streamlit)[https://example-time-series-annotation.streamlit.app/] would probably be at about the level of complexity and weight-to-value ratio that I think is worth it for our purposes. Anything lighter that introduces more value is likely worth it. Anything heavier that does not bring immediate value is probably best to be avoided.
+   Some [Swagger](https://petstore.swagger.io/) or [Metabase](https://www.metabase.com/demo) or [Streamlit](https://example-time-series-annotation.streamlit.app/) would probably be at about the level of complexity and weight-to-value ratio that I think is worth it for our purposes. Anything lighter that introduces more value is likely worth it. Anything heavier that does not bring immediate value is probably best to be avoided.
 
 8. **Beautiful and Presentable**.
 
