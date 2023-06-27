@@ -86,6 +86,8 @@ Here are some core principles I would like to adhere to while doing so.
 
    Property-based, exhaustive, model-based, and proof-based tests: Would be great to get this far, but no promises.
 
+   Other types of tests, including, but not limited to, component tests: We should have a meetup episode some time soon about different test types. I have converged to understanding that the terminology is flaky these days, and the content of the tests is more important than their categorization. Rest assured, we will have all the tests necessary to convince both ourselves and the external observers that we are doing the right thing!
+
 5. **Open and Extensible**.
 
    Unless we agree otherwise on a case-by-case basis, the design and its implementation is open under the MIT license. And the skeleton of each end-to-end system that we build should be fully functional when composed only of the openly released components.
