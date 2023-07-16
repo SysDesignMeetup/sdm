@@ -26,6 +26,16 @@ Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https
 * Exactly Once, [video](https://tinyurl.com/sdm-exactlyonce), [slides](https://tinyurl.com/sdm-exactlyonce-slides).
 * MapReduce, [video](https://www.youtube.com/watch?v=HR82uF7vQ0k), [slides](https://docs.google.com/presentation/d/19_Nk8XhmUZfNgdKNV6qL9pb5yhzhUPOp-LPZ8aCMeG0).
 
+# Vision and the State of the Art
+
+When I started this meetup, my long-term goal has always been to establish some "Architect's Corner", where we have gathered the critical mass of high-profile, experienced, and motivated people who enjoy learning from each other, sharing the knowledge, and building something fun together.
+
+I'd say we are about half way there.
+
+On-air events are still mostly me preparing the content and presenting it, answering questions from you folks both during and after the recorded part. On top of this, we manage to have roughly two off the record gatherings per one on-air event that we release. Quite often, the conversations we have on those off the record events have to do with architectural problems that we are facing in real life.
+
+Thus, if you have a System Design challenge at work, and, on a high level, it is not proprietary and confidendial -- do feel free to bring it to the meetup! Chances are, most of us will be genuinely curious, and, at the very least, we would be able to offer a well-rounded perspective. We would ask many questions, including from the angles that you may have not encountered before. And, if we are lucky, you may discover a worthy approach that you have not thought of yet.
+
 # Educational Designs
 
 We are looking into working on designing a real-life system, or a few of them, in a meetup-orchestrated crowdsourced fashion.
