@@ -10,6 +10,7 @@ Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https
 
 # Episodes
 
+* Testing, [video](https://tinyurl.com/sdm-testing-video), [slides](https://tinyurl.com/sdm-testing-slides).
 * Web3 and Blockchain, [video](https://tinyurl.com/sdm-blockchain), [slides](https://tinyurl.com/sdm-blockchain-slides).
 * Benchmarking Production Systems, [video](https://tinyurl.com/sdm-benchmarking), [slides](https://tinyurl.com/sdm-benchmarking-slides).
 * When Wrong Makes Right, [video](https://tinyurl.com/sdm-wrongmakesright), [slides](https://tinyurl.com/sdm-wrongmakesright-slides).
