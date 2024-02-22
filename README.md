@@ -2,12 +2,12 @@
 
 Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https://linkedin.com/in/dimakorolev), [Twitter](https://twitter.com/@UniqueDima)), and it's great to have you here. Most important links for our SysDesign Meetup:
 
-* [YouTube channel](https://www.youtube.com/dimakorolev).
-* [Slack](https://tinyurl.com/sdm-slack-invite).
-* [Discord](https://tinyurl.com/sdm-discord-invite).
-* [SysDesignMeetup Twitter](https://twitter.com/@SysDesignMeetup).
-* [Telegram channel](https://t.me/SysDesignMeetup).
-* [Substack](https://dimakorolev.substack.com).
+* Public — [YouTube channel](https://www.youtube.com/dimakorolev).
+* Community, new members welcome! — [Slack](https://tinyurl.com/sdm-slack-invite).
+* Community, new members welcome! — [Discord](https://tinyurl.com/sdm-discord-invite).
+* X — [SysDesignMeetup Twitter](https://twitter.com/@SysDesignMeetup).
+* Telegram — [Telegram channel](https://t.me/SysDesignMeetup).
+* My Blog — [Substack](https://dimakorolev.substack.com).
 
 # Episodes
 
