@@ -4,6 +4,7 @@ Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https
 
 * [YouTube channel](https://www.youtube.com/dimakorolev).
 * [Slack](https://tinyurl.com/sdm-slack-invite).
+* [Discord](https://tinyurl.com/sdm-discord-invite).
 * [SysDesignMeetup Twitter](https://twitter.com/@SysDesignMeetup).
 * [Telegram channel](https://t.me/SysDesignMeetup).
 * [Substack](https://dimakorolev.substack.com).
