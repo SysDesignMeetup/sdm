@@ -11,6 +11,7 @@ Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https
 
 # Episodes
 
+* Stateful Orchestration, [video](https://tinyurl.com/sdm-orchestration), [slides](https://tinyurl.com/orchestration-slides).
 * Testing, [video](https://tinyurl.com/sdm-testing-video), [slides](https://tinyurl.com/sdm-testing-slides).
 * Web3 and Blockchain, [video](https://tinyurl.com/sdm-blockchain), [slides](https://tinyurl.com/sdm-blockchain-slides).
 * Benchmarking Production Systems, [video](https://tinyurl.com/sdm-benchmarking), [slides](https://tinyurl.com/sdm-benchmarking-slides).
