@@ -11,6 +11,7 @@ Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https
 
 # Episodes
 
+* Durable Execution, a.k.a. Stateful Orchestration 2.0, [video](https://tinyurl.com/sdm-durable-execution), [slides](https://tinyurl.com/sdm-durable-execution-slides).
 * Stateful Orchestration, [video](https://tinyurl.com/sdm-orchestration), [slides](https://tinyurl.com/sdm-orchestration-slides).
 * Testing, [video](https://tinyurl.com/sdm-testing-video), [slides](https://tinyurl.com/sdm-testing-slides).
 * Web3 and Blockchain, [video](https://tinyurl.com/sdm-blockchain), [slides](https://tinyurl.com/sdm-blockchain-slides).
