@@ -11,6 +11,8 @@ Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https
 
 # Episodes
 
+* Lightning Talks, [video](https://tinyurl.com/sdm-lightningtalks-feb2025), materials [wasm](https://tinyurl.com/sdm-talk-20250220-david-slides), [source-of-truth](https://tinyurl.com/sdm-talk-20250220-dima-slides), [`etcd`](https://github.com/akantsevoi/etcd-lightning-talk).
+
 * Durable Execution, a.k.a. Stateful Orchestration 2.0, [video](https://tinyurl.com/sdm-durable-execution), [slides](https://tinyurl.com/sdm-durable-execution-slides).
 * Stateful Orchestration, [video](https://tinyurl.com/sdm-orchestration), [slides](https://tinyurl.com/sdm-orchestration-slides).
 * Testing, [video](https://tinyurl.com/sdm-testing-video), [slides](https://tinyurl.com/sdm-testing-slides).
