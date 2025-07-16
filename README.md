@@ -1,4 +1,4 @@
-# SysDesign Meetup
+# [SysDesign Meetup](https://sysdesignmeetup.github.io/sdm/)
 
 Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https://linkedin.com/in/dimakorolev), [Twitter](https://twitter.com/@UniqueDima)), and it's great to have you here. Most important links for our SysDesign Meetup:
 
@@ -9,7 +9,7 @@ Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https
 * Telegram — [Telegram channel](https://t.me/SysDesignMeetup).
 * My Blog — [Substack](https://dimakorolev.substack.com).
 
-# Announcement for August the 14th
+# Announcement
 
 We have a talk planned on [The Tail at Scale]([url](https://dl.acm.org/doi/pdf/10.1145/2408776.2408794)) paper by Jeff Dean and Luiz André Barroso!
 
