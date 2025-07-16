@@ -11,7 +11,7 @@ Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https
 
 # Announcement
 
-We have a talk planned on [The Tail at Scale]([url](https://dl.acm.org/doi/pdf/10.1145/2408776.2408794)) paper by Jeff Dean and Luiz André Barroso!
+We have a talk planned on [The Tail at Scale](https://dl.acm.org/doi/pdf/10.1145/2408776.2408794) paper by Jeff Dean and Luiz André Barroso!
 
 [Jordan West](https://www.linkedin.com/in/jordan-west-8aa1731a3) is an Engineering Manager at Netflix and a Cassandra committer. He’s worked on large scale deployments of Cassandra for the past 7 years and distributed databases for the past 10. He is passionate about growing the Cassandra community and working on large scale distributed systems.
 
