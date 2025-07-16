@@ -9,6 +9,26 @@ Hi, I'm your host, Dima ([Github](https://github.com/dkorolev), [LinkedIn](https
 * Telegram — [Telegram channel](https://t.me/SysDesignMeetup).
 * My Blog — [Substack](https://dimakorolev.substack.com).
 
+# Announcement for August the 14th
+
+We have a talk planned on [The Tail at Scale]([url](https://dl.acm.org/doi/pdf/10.1145/2408776.2408794)) paper by Jeff Dean and Luiz André Barroso!
+
+[Jordan West](https://www.linkedin.com/in/jordan-west-8aa1731a3) is an Engineering Manager at Netflix and a Cassandra committer. He’s worked on large scale deployments of Cassandra for the past 7 years and distributed databases for the past 10. He is passionate about growing the Cassandra community and working on large scale distributed systems.
+
+Save the date:
+
+```
+San Francisco, USA        Thu, Aug 14, 2025 at 10:00 am PDT
+New York, USA             Thu, Aug 14, 2025 at 1:00 pm EDT
+London, United Kingdom    Thu, Aug 14, 2025 at 6:00 pm BST
+Amsterdam, Netherlands    Thu, Aug 14, 2025 at 7:00 pm CEST
+Istanbul, Turkey          Thu, Aug 14, 2025 at 8:00 pm EEST
+```
+
+Google Calendar event: [link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MG9kMGNjcGgzM3NmMmRxZW5jM24xaGlqMXYga2c5bXJrYWoxZ3RiMG9nYWs1aHYxbnM1NTBAZw&tmsrc=kg9mrkaj1gtb0ogak5hv1ns550%40group.calendar.google.com).
+
+See you at [http://zoom.dima.ai](http://zoom.dima.ai)!
+
 # Episodes
 
 * Lightning Talks, [video](https://tinyurl.com/sdm-lightningtalks-feb2025), materials [wasm](https://tinyurl.com/sdm-talk-20250220-david-slides), [source-of-truth](https://tinyurl.com/sdm-talk-20250220-dima-slides), [`etcd`](https://github.com/akantsevoi/etcd-lightning-talk).
